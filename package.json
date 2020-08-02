@@ -1,13 +1,28 @@
 {
   "name": "vuegen",
   "version": "1.0.0",
-  "description": "",
-  "main": "GenList.js",
+  "description": "A collection of abstract & generic Vue components",
+  "files": [
+    "src/",
+    "components/"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggondim/vuegen.git"
+  },
+  "keywords": ["vue","components","vue-component"],
+  "author": {
+    "name": "Gustavo Gondim",
+    "url": "https://github.com/ggondim"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ggondim/vuegen/issues"
+  },
+  "homepage": "https://github.com/ggondim/vuegen#readme"
 }
